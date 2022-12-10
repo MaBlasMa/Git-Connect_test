@@ -1,7 +1,11 @@
-Here are some greetings in different languages.
 
-ESPAÑOL
-1.Hola
-2.¿Qué tal?
-3.¿Qué pedo?
 
+
+
+
+
+
+ENGLISH
+1.Hello
+2.What's up?
+3.How you doing?
