@@ -1,0 +1,12 @@
+Here are some farewells in different languages.
+
+ESPAÑOL
+1.Adios
+2.Nos vemos
+3.Hasta luego
+
+ 
+ENGLISH
+1.Goodbye
+2.Take care
+3.See you later
