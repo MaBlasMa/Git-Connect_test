@@ -5,8 +5,12 @@ ESPAÑOL
 2.¿Qué tal?
 3.¿Qué pedo?
 
- 
 ENGLISH
 1.Hello
 2.What's up?
 3.How you doing?
+
+GERMAN
+1.Hallo
+2.Wie geht's?
+3.Was loss? 
