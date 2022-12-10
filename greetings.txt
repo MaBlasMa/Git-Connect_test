@@ -1,1 +1,7 @@
 Here are some greetings in different languages.
+
+ESPAÑOL
+1.Hola
+2.¿Qué tal?
+3.¿Qué pedo?
+
